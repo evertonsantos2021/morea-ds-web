@@ -207,7 +207,7 @@ docker service logs morea_web -f
 3. Implementar Prometheus + Grafana para métricas avançadas
 4. Configurar alertas e notificações
 
-## Licença
+## Licença 
 
 Veja LICENSE no repositório.
 
